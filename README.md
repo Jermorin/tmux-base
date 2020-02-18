@@ -1,11 +1,11 @@
-# tmux-config base
+# tmux-base-config
 
 ```
 set -g @plugin 'jermorin/tmux-base'
 ```
 
 
-## Sample
+## sample usage
 
 ```
 set -g @plugin 'tmux-plugins/tpm'
